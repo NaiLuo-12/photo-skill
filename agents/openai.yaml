@@ -1,0 +1,6 @@
+interface:
+  display_name: "photo-skill"
+  short_description: "为 AI image 模型设计摄影画面，协调机位、构图、摆姿与用光，生成和编辑图片并检查结果"
+  default_prompt: "使用 $photo-skill，将我的画面需求转成摄影指令，并调用 image 模型生成图片。"
+policy:
+  allow_implicit_invocation: true
