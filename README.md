@@ -26,4 +26,4 @@
 
 `SKILL.md` 是技能入口，`agents/openai.yaml` 是界面元数据，`references/` 包含摄影决策、人物与光线、图像工作流、检查清单及来源记录。
 
-本次资料依据为用户提供的摄影教程图文包；公开目录、课程介绍、摘要与原创练习的范围记录在 `references/tutorial-pack.md`。既有扩展资料的来源线索见 `references/sources.md`。未收录付费课程全文或完整视频，不将目录介绍当作课程内容。
+本次资料依据为用户提供的摄影教程图文包；公开目录、课程介绍、摘要与原创练习的范围记录在 `references/tutorial-pack.md`。既有扩展资料的来源线索见 `references/sources.md`。
